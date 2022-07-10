@@ -1,11 +1,8 @@
-
 name: GitHub Profile Review
 description: Please review my GitHub profile and tell me some suggestions.
 title: Review <your-username>'s Profile
 labels: GitHub Profile Review
 assignees: MrKrishnaAgarwal
-
-  
 body:
   - type: input
     id: link
