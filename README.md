@@ -109,5 +109,49 @@
       <a href="https://github.com/messenger-1012">MUHAMMED YAZEEN A N</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/josepedrolorenzini">
+        <img src="https://avatars2.githubusercontent.com/u/51427975" width="100px;" alt="josepedrolorenzini"/>
+      </a>
+      <br />
+      <a href="https://github.com/josepedrolorenzini">jplorenzini</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/akbar-ardiansyah">
+        <img src="https://avatars2.githubusercontent.com/u/73751746" width="100px;" alt="akbar-ardiansyah"/>
+      </a>
+      <br />
+      <a href="https://github.com/akbar-ardiansyah">akbar-ardiansyah</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ViktoryDev">
+        <img src="https://avatars2.githubusercontent.com/u/2262994" width="100px;" alt="ViktoryDev"/>
+      </a>
+      <br />
+      <a href="https://github.com/ViktoryDev">Viktor Turla</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vamsi-tupakula">
+        <img src="https://avatars2.githubusercontent.com/u/88920294" width="100px;" alt="vamsi-tupakula"/>
+      </a>
+      <br />
+      <a href="https://github.com/vamsi-tupakula">Vamsi Krishna</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hargunrana">
+        <img src="https://avatars2.githubusercontent.com/u/81432834" width="100px;" alt="hargunrana"/>
+      </a>
+      <br />
+      <a href="https://github.com/hargunrana">Hargun Singh Rana</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hansdoebel">
+        <img src="https://avatars2.githubusercontent.com/u/14842582" width="100px;" alt="hansdoebel"/>
+      </a>
+      <br />
+      <a href="https://github.com/hansdoebel">hans</a>
+    </td>
+  </tr>
 </table>
 <!--END_SECTION:top-followers-->
