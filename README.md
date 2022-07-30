@@ -152,6 +152,13 @@
       <br />
       <a href="https://github.com/hansdoebel">hans</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/shridharkapshikar">
+        <img src="https://avatars2.githubusercontent.com/u/14037517" width="100px;" alt="shridharkapshikar"/>
+      </a>
+      <br />
+      <a href="https://github.com/shridharkapshikar">Shridhar Kapshikar</a>
+    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
