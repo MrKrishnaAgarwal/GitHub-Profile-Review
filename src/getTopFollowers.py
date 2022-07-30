@@ -31,7 +31,7 @@ if __name__ == "__main__":
 
     html = "<table>\n"
 
-    for i in range(min(len(followers), 14)):
+    for i in range(min(len(followers), 20)):
         login = followers[i][1]
         id = followers[i][2]
         name = followers[i][3]
