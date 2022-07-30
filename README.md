@@ -1,4 +1,10 @@
 # GitHub-Profile-Review
+
+### ✨ My Followers
+
+<details>
+<summary> 🤼 </summary>
+
 <!--START_SECTION:top-followers-->
 <table>
   <tr>
