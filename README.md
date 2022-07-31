@@ -23,6 +23,13 @@
       <a href="https://github.com/petprog">FARINU TAIWO</a>
     </td>
     <td align="center">
+      <a href="https://github.com/horizenight">
+        <img src="https://avatars2.githubusercontent.com/u/76839614" width="100px;" alt="horizenight"/>
+      </a>
+      <br />
+      <a href="https://github.com/horizenight">Kshitij roodkee</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/danimonettelli">
         <img src="https://avatars2.githubusercontent.com/u/14121125" width="100px;" alt="danimonettelli"/>
       </a>
@@ -50,6 +57,8 @@
       <br />
       <a href="https://github.com/AnsonZnl">九旬</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Ah-Gr">
         <img src="https://avatars2.githubusercontent.com/u/74565078" width="100px;" alt="Ah-Gr"/>
@@ -57,8 +66,13 @@
       <br />
       <a href="https://github.com/Ah-Gr">Ah-Gr</a>
     </td>
-  </tr>
-  <tr>
+    <td align="center">
+      <a href="https://github.com/0mehedihasan">
+        <img src="https://avatars2.githubusercontent.com/u/106642643" width="100px;" alt="0mehedihasan"/>
+      </a>
+      <br />
+      <a href="https://github.com/0mehedihasan">Md. Mehedi Hasan</a>
+    </td>
     <td align="center">
       <a href="https://github.com/skylineaxilleas">
         <img src="https://avatars2.githubusercontent.com/u/4080219" width="100px;" alt="skylineaxilleas"/>
@@ -72,13 +86,6 @@
       </a>
       <br />
       <a href="https://github.com/AhmedAchraf2001">Ahmed Achraf</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/0mehedihasan">
-        <img src="https://avatars2.githubusercontent.com/u/106642643" width="100px;" alt="0mehedihasan"/>
-      </a>
-      <br />
-      <a href="https://github.com/0mehedihasan">Md. Mehedi Hasan</a>
     </td>
     <td align="center">
       <a href="https://github.com/wavescats">
@@ -101,6 +108,8 @@
       <br />
       <a href="https://github.com/AftabAhmedAbro">Aftab Ahmed</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/messenger-1012">
         <img src="https://avatars2.githubusercontent.com/u/27795050" width="100px;" alt="messenger-1012"/>
@@ -108,8 +117,6 @@
       <br />
       <a href="https://github.com/messenger-1012">MUHAMMED YAZEEN A N</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/josepedrolorenzini">
         <img src="https://avatars2.githubusercontent.com/u/51427975" width="100px;" alt="josepedrolorenzini"/>
@@ -151,13 +158,6 @@
       </a>
       <br />
       <a href="https://github.com/hansdoebel">hans</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/shridharkapshikar">
-        <img src="https://avatars2.githubusercontent.com/u/14037517" width="100px;" alt="shridharkapshikar"/>
-      </a>
-      <br />
-      <a href="https://github.com/shridharkapshikar">Shridhar Kapshikar</a>
     </td>
   </tr>
 </table>
